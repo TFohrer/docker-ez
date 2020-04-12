@@ -1,6 +1,6 @@
 # ez Platform docker containers
 
-A Proof-of-concept of a running ez platform application inside containers
+A Proof-of-concept of running ez platform application/website inside docker containers
 
 ## Getting started
 
